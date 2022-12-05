@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dichell
 - 👀 I’m interested in bicycles, lives and working
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently study for Fullstack
 - 💞️ I’m looking to collaborate on web
 
 <!---
